@@ -51,3 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 hello-world/hello
+hello-subtract/subtract
+hello-stack/stack
